@@ -1,0 +1,3 @@
+/home/max/NTLGY_Home/assignment3.4/assignment3.4_2b_CORR_QC_folder/build-assignment3_4__2b_CORR_QC-Desktop-Debug/CMakeFiles/assignment3_4__2b_CORR_QC.dir
+/home/max/NTLGY_Home/assignment3.4/assignment3.4_2b_CORR_QC_folder/build-assignment3_4__2b_CORR_QC-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/max/NTLGY_Home/assignment3.4/assignment3.4_2b_CORR_QC_folder/build-assignment3_4__2b_CORR_QC-Desktop-Debug/CMakeFiles/rebuild_cache.dir
